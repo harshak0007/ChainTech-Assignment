@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-git clone https://github.com/harshak0007/Machine-Test.git ./
+git clone https://github.com/harshak0007/ChainTech-Assignment.git ./
 ```
 
 ## Install Dependencies
